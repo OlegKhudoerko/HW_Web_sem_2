@@ -2,4 +2,4 @@
 Мой домашний питомец.
 
 
-![acrhitect]image/cat.jpg)
+![acrhitect](image/cat.jpg)
